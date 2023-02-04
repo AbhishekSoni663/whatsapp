@@ -42,10 +42,10 @@ body{
     z-index:1;
     top:90px;
     left:140px;
-    height:150vh;
+    /* height:150vh; */
 }
 .main{
-    height:180vh;
+    /* height:180vh; */
     position: relative;
 }
 .ol-list{
@@ -135,7 +135,7 @@ body{
         height:100px;
     }
     .logo-link{
-        background-color: black;
+        background-color: #e56060;
         height: 100px;
         width:100%;
         align-items: center;
